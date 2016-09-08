@@ -1,0 +1,19 @@
+{
+  "name": "probable-goggles",
+  "description": "A small desktop app/experiment to pull a Twitter feed made with Serverless, React, & Electron.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasc/probable-goggles.git"
+  },
+  "author": "tobiasc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiasc/probable-goggles/issues"
+  },
+  "homepage": "https://github.com/tobiasc/probable-goggles#readme",
+  "dependencies": {
+    "osmosis": "^1.1.0",
+    "serverless-cors-plugin": "^0.4.1"
+  }
+}
